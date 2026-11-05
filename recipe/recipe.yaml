@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.7.23.11"
+  version: "2.7.23.12"
 
 package:
   name: pm4py
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pm4py/pm4py-${{ version }}.tar.gz
-  sha256: daf30bb678aea4d716e1adf93bc7b91f762aea79dcf73be5553708776ad351df
+  sha256: 65964e84d9b0ce31e9644eaff3ba31b56b7449f2a90d590b85010946b9d7bfa8
 
 build:
   number: 0
